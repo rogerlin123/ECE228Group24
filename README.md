@@ -3,7 +3,7 @@
 ## Dataset: https://www.kaggle.com/c/whale-categorization-playground/data
 
 
-### You can download the dataset from the kaggle using the link above. After you download the data, unzip the train.zip file, put the folder in the same directory with train.csv and the jubyternotebook named 228Final.ipynb. 
+### You can download the dataset from the kaggle using the link above. After you download the data, unzip the train.zip file, put the folder in the same directory with train.csv and the jubyternotebook named 228Project.ipynb. 
 
 ### 1. 228Project.ipynb is the file that contains all the all the key elements of our code.
 
