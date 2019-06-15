@@ -11,10 +11,10 @@
 ### 2.Download the history training data zipfile from google drive using this link: 
 https://drive.google.com/file/d/16uWJXXouUcynEOVCQIuMcuS-L4l1sUM5/view?usp=sharing
 
-### This link will enable you to download a zipfile called Archive.zip. It contains Whaleclass_augmented, whaleclass1_new1, whaleclass1_new2 whaleclass_2_final, these four folders contain the training history data for our model training. 228Project.ipynb will load these data for demonstration. Please also put the folder in the same directory with 228Final.ipynb.
+### This link will enable you to download a zipfile called Archive.zip. It contains Whaleclass_augmented, whaleclass1_new1, whaleclass1_new2 whaleclass_2_final, these four folders contain the training history data for our model training. 228Project.ipynb will load these data for demonstration. Please also inzip them and put the folders in the same directory with 228Final.ipynb.
 
 
-### 3. nntools.py is a file that inherits from Ònn.ModuleÓ and overloads the method. We import this file and use the module to set up our training.
+### 3. nntools.py is a file that inherits from nn.Module and overloads the method. We import this file and use the module to set up our training.
 
 ### 4. Report24.pdf is our final project report. 
 
